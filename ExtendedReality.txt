@@ -1,0 +1,27 @@
+This is a submission for Explore a Buzzword challenge.
+
+Extended Reality: 
+It's Abbreviated as XR.
+It's an umbrella term regarding all real-and-virtual combined environments and human-machine interactions
+It includes :
+---> AR ( Augmented Reality )
+  It is an interactive experience of a real-world environment enhanced by computer-generated perceptual information.
+  The enhancement could be through any / multiple senses: visual, audio , olfactory etc.
+---> VR ( Virtual Reality )
+  Unlike AR, VR is completely computer generated . requires headsets and a lot of sensors providing users an experience that they're living in the virtual world itself.
+  This too can have multiple senses: VR headsets, headphones, gloves etc.
+---> MR ( Mixed Reality )
+  It is a combination of VR and AR. Computer generated info interacting with real world objects
+
+Current Uses: 
+-> Pilot simulators etc.
+-> Gaming
+-> Virtual Conferences and interactions
+
+Future benefits:
+XR could simulate human interactions. for example we have those online video conferences. but XR could enhance it even more and could Host like a virtual session where you could actually see people. 
+XR could be beneficial for simulations. for eg. in chemistry, where we actually don't want to waste chemicals in a reaction , we simulate it. for gaining a driving license, we don't need large roads. we can simulate those conditions and tests.
+It's a bright future indeed
+
+Challenges:
+-> Privacy is a big concern . because With Mixed reality and Augmented reality, The data could be suspectible to People who aren't meant to see the data.
