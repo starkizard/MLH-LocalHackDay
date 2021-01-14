@@ -1,6 +1,6 @@
 
 import argparse
-# Time Complexity O(max(l) - min(l))
+# Time Complexity O(n)
 def stalinSort(l):
     m=float("-inf")
     sortl=[]
