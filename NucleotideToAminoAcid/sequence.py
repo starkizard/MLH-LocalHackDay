@@ -30,14 +30,7 @@ for i in sequence: #ignoring rest characters
 seq=seq[:len(seq)-(len(seq)%3)]    #ignoring waste nucleotides at the end.    
 i=0
 while(i<len(seq)):
-    if seq[i]=="A":
-        amino+=tableA[seq[i+1]+seq[i+2]]
-    elif seq[i]=="C":
-        amino+=tableC[seq[i+1]+seq[i+2]]    
-    elif seq[i]=="U":
-        amino+=tableU[seq[i+1]+seq[i+2]]
-    else:
-        amino+=tableG[seq[i+1]+seq[i+2]]
+    exec("amino+=table"+seq[i]+"[seq[i+1]+seq[i+2]]")
     i+=3
 
 print("The amino acid sequence:")
