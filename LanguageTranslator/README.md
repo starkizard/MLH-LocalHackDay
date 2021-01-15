@@ -1,4 +1,4 @@
-#Language Translator with Google API
+# Language Translator with Google API
 
 ## Requirements:
 googletrans api newest version
